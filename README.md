@@ -4,7 +4,7 @@
 
 # AvraZoo
 
-[My zoo app](https://yossiheftler.github.io/zoo-jsonType/)
+[My zoo app try it](https://yossiheftler.github.io/zoo-jsonType/)
 
 ## zoo project need to show  3 type of animal groups 
 
