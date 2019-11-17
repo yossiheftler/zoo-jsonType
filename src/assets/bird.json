@@ -1,0 +1,7 @@
+[
+  { "name":"owl", "size": "small", "lifeSpan":"10y", "habitat":"israel", "src":"https://fsmedia.imgix.net/23/71/34/22/4a78/4ef4/af29/45d851d10b69/an-owl-taking-flight.gif#image" },
+  { "name":"parrot", "size": "small", "lifeSpan":"10y", "habitat":"us", "src":"https://camo.githubusercontent.com/2fcad779e1e9264e931af8a654b3f1bc5dfa3224/68747470733a2f2f33382e6d656469612e74756d626c722e636f6d2f37336637313961363065643931366666363739306635656265366239366432342f74756d626c725f6d7a767174793847575a317270653337396f315f3530302e676966" },
+  { "name":"falcon", "size": "meduin", "lifeSpan":"20y", "habitat":"Africa Desert", "src":"https://media1.giphy.com/media/Qy2wmxsj4Wt8c/source.gif"},
+  { "name":"Peacock", "size": "large", "lifeSpan":"19y", "habitat":"africa", "src":"https://thumbs.gfycat.com/AcademicQuarrelsomeButterfly-size_restricted.gif" },
+  { "name":"eagle", "size": "extra large", "lifeSpan":"25m", "habitat":"Namibia", "src":"https://i.pinimg.com/originals/73/97/32/73973232d5f03bbc6bda70c0055cf552.gif"}
+]

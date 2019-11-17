@@ -1,0 +1,15 @@
+<h2>Welcome to the wild animals field</h2>
+
+<div class="div-wild">
+    <div>
+        <h3>our wild animals list</h3>
+        <ul>
+            <li *ngFor="let wildAnimal of wildSvc.wildAnimals"> {{ wildAnimal.name }} </li>
+        </ul>
+    </div>
+
+
+    <div>
+        <app-wild-card></app-wild-card>
+    </div>
+</div>

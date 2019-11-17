@@ -1,0 +1,7 @@
+.A{
+    transform: scaleX(-1);
+
+}
+.flex{
+   display: flex
+}

@@ -1,0 +1,32 @@
+.bg-header{ display: flex; justify-content: space-between;
+    background-color: rgb(206, 195, 133);
+    align-items: center;
+ }
+ 
+.logo{
+    width: 35%;
+    
+}
+.logo>img{
+    width:150px ;
+}
+.zooName{
+    display: bold;
+    display: block;
+    padding: 0px 20px 20px;
+   
+}
+h3{
+    margin: 0%;
+    padding-left: 11px;
+    color: rgb(26, 97, 47)
+}
+h1{
+    margin: 0%;
+    color: rgb(233, 16, 16);
+    font-family: Arial;
+}
+app-nav{
+    display: block;
+    width: 50%;
+}
